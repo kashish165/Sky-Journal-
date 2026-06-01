@@ -1,7 +1,7 @@
 # Sky Journal
 
-## Dev/Creator
-**tubakhxn**
+## Developer
+**Kashish**
 
 ---
 
